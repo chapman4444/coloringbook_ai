@@ -1,0 +1,8 @@
+Pillow
+PyQt5
+numpy
+opencv-python
+scikit-image
+scipy
+shapely
+svgpathtools
