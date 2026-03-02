@@ -64,4 +64,4 @@ coloringbook_ai/
 
 ## 📜 License
 
-MIT License — © 2025 Ryan
+MIT License — © 2025 chapman4444
